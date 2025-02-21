@@ -5,10 +5,9 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Account Admin Task](https://github.com/LittleLightV/osTicket-Account-Management)
   - [osTicket: Ticket Lifecycle](https://github.com/LittleLightV/ticket-lifecycle)
-- <b>Power Shell</b>
+- <b>Power Shell and Active Directory</b>
   - [AD Account Creation Using CSV](https://github.com/LittleLightV/AD_Account_Creation_Using_CVS/tree/main)
   - [Account Creation Script](https://github.com/LittleLightV/AD_USERSCRIPT/blob/main/AD_usercreation)
-- <b>Microsoft Azure</b>
   - [DNS Demonstration](https://github.com/LittleLightV/DNS_Demonstration)
   
 

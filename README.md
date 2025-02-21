@@ -5,7 +5,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Account Admin Task](https://github.com/LittleLightV/osTicket-Account-Management)
   - [osTicket: Ticket Lifecycle](https://github.com/LittleLightV/ticket-lifecycle)
-- <b>Power Shell</>
+- <b>Power Shell</b>
   - [Active Directory CVS Use Account Creation](https://github.com/LittleLightV/AD_Account_Creation_Using_CVS/tree/main)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)

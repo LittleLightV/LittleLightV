@@ -7,9 +7,10 @@
   - [osTicket: Ticket Lifecycle](https://github.com/LittleLightV/ticket-lifecycle)
 - <b>Power Shell</b>
   - [AD Account Creation Using CSV](https://github.com/LittleLightV/AD_Account_Creation_Using_CVS/tree/main)
+  - [Account Creation Script](______)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+  - [DNS Demonstration](https://github.com/LittleLightV/DNS_Demonstration)
+  
 
 <h2>🤳Connect with me:</h2>
 
